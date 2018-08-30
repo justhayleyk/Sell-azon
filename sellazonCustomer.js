@@ -75,7 +75,7 @@ function promptConsumer() {
         name: "quantity",
         message: "How many would you like to buy?",
         validate: function(value) {
-          let value = parseInt(value);
+          var value = parseInt(value);
           return value >= 1;
         }
       }
