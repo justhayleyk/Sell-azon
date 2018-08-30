@@ -1,0 +1,23 @@
+{
+  "name": "sell-azon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sellazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CopperCo/Sell-azon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CopperCo/Sell-azon/issues"
+  },
+  "homepage": "https://github.com/CopperCo/Sell-azon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.16.0"
+  }
+}
