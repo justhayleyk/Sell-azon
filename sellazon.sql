@@ -11,7 +11,7 @@ CREATE TABLE products
   department_name VARCHAR
   (50) NULL,
   price DECIMAL
-  (10,4) NULL,
+  (10,2) NULL,
   stock INTEGER
   (10) NULL,
   PRIMARY KEY
